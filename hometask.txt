@@ -1,7 +1,5 @@
  Файлы human.txt в ветках master(текущей) и demo имеют одинаковое содержание
  
- 
- 
  master:
  
     =====
@@ -35,4 +33,20 @@
     = = =
   ==== ====
  ===== =====
+
+ 
+ UPD:
+ Изменения в веб-интерфейсе замечены не были, в удаленном репо наблюдаю 11 коммитов:
+ added new file hometask.txt
+ Merge branch 'boots_buttons'
+ Merge remote-tracking branch 'origin/hat'
+ Merge remote-tracking branch 'origin/buttons' into boots_buttons
+ Merge remote-tracking branch 'origin/boots' into boots_buttons
+ fix readme
+ dots
+ README added
+ boots
+ heat added
+ init
+ 
  
